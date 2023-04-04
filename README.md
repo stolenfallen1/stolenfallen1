@@ -4,11 +4,6 @@
 
 🚀  Aspiring Full Stack Developer
 
-
-
-
-## Other Common Github Profile Sections
-
 🧠 I'm currently learning Applications Development using MERN and React Native
 
 👯‍♀️ I'm looking to collaborate on projects that revolved around web and mobile development

@@ -8,7 +8,7 @@
 
 👯‍♀️ I'm looking to collaborate on projects that revolved around web and mobile development
 
-📫 How to reach me **stolenfallen1@gmail.com**
+📫 How to reach me **stolenfallen1@gmail.com** or through the links provided
 
 ⚡️ Fun fact **I have love-hate relantionship with programming**
 

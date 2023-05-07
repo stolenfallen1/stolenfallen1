@@ -2,7 +2,7 @@
 # Hi, I'm Jhon Llyod Quizeo! 👋
 
 
-🚀  Aspiring Full Stack Developer
+🚀  Junior Web / Mobile Developer
 
 🧠 I'm currently learning Applications Development using MERN and React Native
 

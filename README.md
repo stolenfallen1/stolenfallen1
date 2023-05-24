@@ -2,15 +2,15 @@
 # Hi, I'm Jhon Llyod Quizeo! 👋
 
 
-🚀  Junior Web / Mobile Developer
+🚀 A Junior Web / Mobile Developer
 
-🧠 I'm currently learning Applications Development using React, React Native and Firebase
+🧠 I'm currently learning Applications Development using React, React Native, Firebase and Tailwind
 
 👯‍♀️ I'm looking to collaborate on projects that revolved around web and mobile development
 
 📫 How to reach me **stolenfallen1@gmail.com** or through the links provided
 
-⚡️ Fun fact **I have love-hate relantionship with programming**
+⚡️ Fun facts about me: **I have love-hate relantionship with programming** **I'm also good at content / technical writing**
 
 
 

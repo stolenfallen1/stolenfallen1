@@ -12,6 +12,7 @@
 
 ⚡️ Fun facts about me: 
   **I have love-hate relantionship with programming** 
+  and
   **I'm also good at content / technical writing**
 
 

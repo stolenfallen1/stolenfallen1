@@ -10,7 +10,9 @@
 
 📫 How to reach me **stolenfallen1@gmail.com** or through the links provided
 
-⚡️ Fun facts about me: **I have love-hate relantionship with programming** **I'm also good at content / technical writing**
+⚡️ Fun facts about me: 
+  **I have love-hate relantionship with programming** 
+  **I'm also good at content / technical writing**
 
 
 

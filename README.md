@@ -20,7 +20,7 @@
 
 ## 🛠 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=figma,html,css,php,javascript,ts,bootstrap,tailwind,react,express,firebase,mysql,github,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,html,css,php,javascript,ts,bootstrap,tailwind,react,vite,nodejs,express,firebase,mysql,git,github,postman)](https://skillicons.dev)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()

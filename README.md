@@ -23,8 +23,8 @@
 [![My Skills](https://skillicons.dev/icons?i=figma,html,css,php,javascript,ts,bootstrap,tailwind,react,vite,nodejs,express,firebase,mysql,git,github,postman)](https://skillicons.dev)
 
 ## 🔗 Links
-[![portfolio]([https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white](https://portfolio-fg04xx5cw-stolenfallen1.vercel.app/))]()
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://katherineoelsner.com/](https://portfolio-fg04xx5cw-stolenfallen1.vercel.app/))
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![facebook](https://img.shields.io/badge/facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white)]()
-[![instagram](https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)]()
+[![facebook](https://img.shields.io/badge/facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/stolenfallen1/)
+[![instagram](https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/llyd_qzo/)
 

@@ -2,9 +2,7 @@
 # Hi, I'm Jhon Llyod Quizeo! 👋
 
 
-🚀 A Junior Web / Mobile Developer
-
-🧠 I'm currently learning Applications Development using React, React Native, Firebase and Tailwind
+🚀 Developer
 
 👯‍♀️ I'm looking to collaborate on projects that revolved around web and mobile development
 

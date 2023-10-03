@@ -18,7 +18,7 @@
 
 ## 🛠 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=figma,html,css,php,javascript,ts,bootstrap,tailwind,react,vite,nodejs,express,firebase,mysql,git,github,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,html,css,php,javascript,ts,bootstrap,tailwind,react,vite,nodejs,express,laravel,firebase,mysql,git,github,postman)](https://skillicons.dev)
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-llyod-quizeo-b17b56260/)

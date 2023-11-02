@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021.<br>📚 I'm currently learning Laravel and backend development creating web services API's.<br>🎯 Goals: To be the best version of myself.<br>🎲 Fun fact: I have a knack for content writing.📫 Contact me here stolenfallen1@gmail.com or through the links provided</p>
+<p align="left">✨ Creating bugs since 2021.<br>📚 I'm currently learning Laravel and backend development creating web services API's.<br>🎯 Goals: To be the best version of myself.<br>🎲 Fun fact: I have a knack for content writing.<br>📫 Contact me here stolenfallen1@gmail.com or through the links provided</p>
 
 ###
 

@@ -20,4 +20,4 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021.<br>🎯 Goals: To be the best version of myself.<br>🎲 Fun fact: I don't give a fact! Just kidding haha<br>📫 Contact me here stolenfallen1@gmail.com or through the links provided</p>
+<p align="left">✨ Creating bugs since 2021. <br>🎯 Goals: To be the best version of myself without doing anything. <br>🧠 Currently learning Mobile Development using Swift and Obj-C, also Backend Development using Java SpringBoot. <br>🎲 Fun Fact: If I'm not coding, I'm reading. <br>📫 Contact me here stolenfallen1@gmail.com or through the links provided.</p>
